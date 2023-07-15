@@ -18,7 +18,7 @@ Glide
 |                                                              |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<img src="https://github.com/du4r/instagram-clone/blob/main/screenshots/Screenshot_20230713_223650.png" width="250"> |
+<img src="https://github.com/du4r/instagram-clone/blob/main/screenshots/Screenshot_20230713_224515.png" width="250"> |
 <img src="https://github.com/du4r/instagram-clone/blob/main/screenshots/Screenshot_20230713_223744.png" width="250"> |
 <img src="https://github.com/du4r/instagram-clone/blob/main/screenshots/Screenshot_20230713_223938.png" width="250"> |
 <img src="https://github.com/du4r/instagram-clone/blob/main/screenshots/Screenshot_20230713_223534.png" width="250"> |
